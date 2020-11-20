@@ -1,0 +1,4 @@
+input_a  = 1
+input_b  = 2
+input_c  = 3
+input_d  = 4,20,6,7
