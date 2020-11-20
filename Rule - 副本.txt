@@ -1,5 +1,0 @@
-type,variant,data,detail
-WE,input_a,11;12
-WE,input_b,13;14
-WE,input_c,15;16
-WE2,input_d,17;18;19;20
